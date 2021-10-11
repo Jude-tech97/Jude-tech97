@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Jude-tech97
 - 👀 I’m interested in Developer Fullstack experience
-- 🌱 I’m currently learning in IT at Epitech
+- 🌱 I’m currently learning in IT at Isitech
 - 💞️ I’m looking to collaborate on Web or mobile project
 - 📫 How to reach me judicael.durvel.pro@gmail.com
 
